@@ -1,4 +1,7 @@
-# Data analytics | Capstone - Case Study 1: How does a bike-share navigate speedy success?
+# Google Data Analytics Professional Certificate — Capstone Project  
+**Case Study:** How does a bike-share navigate speedy success?  
+
+Analyzed real-world bike-share data to uncover usage patterns differentiating casual and annual riders. Delivered actionable marketing strategies to increase annual memberships, supported by R-based data cleaning, analysis, and visualizations.
 
 Hi there, over the few months, I've been working on the Google Data Analytics Professional Certificate through Coursera.
 
