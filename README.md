@@ -11,12 +11,6 @@ At the last course, we have capstone projects which are required as a part of th
 
 This article would be sharing how I approached and completed the Case Studies which I encapsulated-applied all of the learned| achieved skills from the course, I will perform many real-worlds tasks of a junior data analyst
 
-## Quick links
-
-- [Kaggle Notebook: Case Study 1](https://www.kaggle.com/code/thanhbuinguyen/google-data-analytics-capstone-case-study-1/edit)
-- [Google Data Analytics Professional Certificate course on Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
-- [My Google Data Analytics Professional Certificate Learning Documentation repository](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
-
 ## Table of Contents
 
 - [Capstone - Case Study 1: How does a bike-share navigate speedy success?](#data-analytics--capstone---case-study-1-how-does-a-bike-share-navigate-speedy-success)
